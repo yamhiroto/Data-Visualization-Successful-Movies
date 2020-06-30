@@ -31,6 +31,21 @@
   </tr>
 </table>
 
+# Installation
+
+You will need [node](https://nodejs.org/en/download/) installed on your computer with npm.
+
+Then, run the following command at the root's project to install dependencies:
+
+```sh
+npm install
+```
+
+If you don't have access to browserify, you may need to install it in global:
+
+```sh
+sudo npm install -g browserify
+```
 
 
 # Objectives
